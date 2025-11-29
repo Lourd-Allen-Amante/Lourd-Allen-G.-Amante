@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <h1>Good Day :3 Im Lourd Allen G. Amante</h1>
+    <h1>Good Day :3 I'm Lourd Allen G. Amante</h1>
   </head>
   <body>
     <p>Currently 2nd Year College at New Era University as BSIT.</p>
