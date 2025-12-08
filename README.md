@@ -23,6 +23,7 @@
         <a href="https://courses.cognitiveclass.ai/certificates/dc187c0dc3174c4b88089dfa83479fa2">
           SQL and Relational Databases 101
         </a>
+        <br>
           <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A639C39B3BFF044E20451FA50FBE70250957D741CFA3753725DBA79CB821FB65">
           Become An OCI Foundations Associate (2025) 
         </a>
