@@ -28,6 +28,9 @@
           <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A639C39B3BFF044E20451FA50FBE70250957D741CFA3753725DBA79CB821FB65">
           Become An OCI Foundations Associate (2025) 
         </a>
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A639C39B3BFF044E20451FA50FBE70250957D741CFA3753725DBA79CB821FB65">
+          Become an Oracle Data Platform Foundations Associate (2025)
+        </a>
       </li>
     </ul>
     <p></p>
